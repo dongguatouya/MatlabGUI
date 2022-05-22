@@ -1,2 +1,3 @@
 # MatlabGUI
 MatlabGUI实现多种图像处理功能，包括FaceDetect
+你可以下载并且阅读在matlab中，实现多种matlab图像处理，包括一种简易的人脸检测算法，
